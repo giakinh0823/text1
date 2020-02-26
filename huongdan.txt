@@ -1,0 +1,10 @@
+mkdir DEV
+mkdir 1-commit
+git init
+dir /a hien thi
+git status //check vaf follow project for me
+git add tenfile
+git commit -m "ten"
+
+git log
+git show
