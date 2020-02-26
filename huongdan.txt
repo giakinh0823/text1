@@ -8,3 +8,4 @@ git commit -m "ten"
 
 git log
 git show
+gif diff
