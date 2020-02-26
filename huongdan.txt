@@ -8,4 +8,5 @@ git commit -m "ten"
 
 git log
 git show
-gif diff
+gif diff kiem tra thay doi
+
